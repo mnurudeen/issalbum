@@ -1,0 +1,38 @@
+@media screen and (max-width: 1040px){
+
+.card{
+	padding: 20px;
+	margin: 20px; 
+	flex: space-around;
+	border: red;
+	width: 40%; 
+	height: 10%;
+	position: relative;
+	cursor: pointer;
+	box-shadow:rgb(110, 110, 110) 8px 8px;
+	justify-content: center;
+	
+}
+.span1{
+	padding: 0px;
+	margin: 10px;
+	font-size: 20px;
+	font-family: tahoma;
+	display: block;
+
+
+}
+.p{
+	font-size: 10px;
+
+
+}
+
+h2{
+	font-size: 50px;
+	
+}
+
+
+
+}
